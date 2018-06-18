@@ -1,5 +1,7 @@
 # ejemplo111
 <<<<<<< HEAD
+Archivo de ejemplo
+
 
 Lo modifica en paralelo.
 =======
