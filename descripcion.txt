@@ -1,2 +1,7 @@
 Esto es la descripcion
 del primer commit del curso.
+
+
+Prueba desde linea comandos
+
+
